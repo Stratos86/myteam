@@ -27,9 +27,18 @@ h1 {
 #wrapper img {
   height: 150px
 }
-.logo {
+#logo {
   width: 25%;
 }
 .table {
   text-align: left;
+}
+.UGHead {
+  text-align: center;
+}
+#mini-logo {
+  width: 20px;
+}
+#mini-player {
+  width: 20px
 }
